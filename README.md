@@ -21,6 +21,7 @@
 
 **[ USERNAME ]**
 - `git config --global user.name "USERNAME"`
+
 **[ EMAIL ]**
 - `git config --global user.email "EMAIL"`
 
