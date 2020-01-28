@@ -46,3 +46,13 @@
 
 **[ PULL IN REPOSITORY ]**
 - `git pull origin NAME_BRANCH` (Récupére le repertoire)
+
+## Remove all commit
+
+**[ DELETE HISTORY COMMIT ]**
+- `git checkout --orphan temp_branch`
+- `git add -A`
+- `git commit -am "Le premier commit"`
+- `git branch -D master`
+- `git branch -m master`
+- ` git push -f origin master`
