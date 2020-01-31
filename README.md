@@ -16,7 +16,7 @@
 - `git pull origin master`
 
 
-## Gestion les branch d'un repo
+## Geger les branch d'un repository
 
 **CREER UNE BRANCH**
 
