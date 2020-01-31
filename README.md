@@ -14,7 +14,7 @@
 - `git pull origin master`
 
 
-## Geger les branch d'un repository
+## Gerer les branches d'un repository
 
 **CREER UNE BRANCH**
 
@@ -38,7 +38,7 @@
 - `git branch -d NOM_DE_LA_BRANCH`
 
 
-## Remove all commit
+## Supprimé les commit
 
 **DELETE HISTORY COMMIT**
 
