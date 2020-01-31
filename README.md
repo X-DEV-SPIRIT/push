@@ -40,8 +40,6 @@
 
 ## Supprimé les commit
 
-**DELETE HISTORY COMMIT**
-
 - `git checkout --orphan temp_branch`
 - `git add -A`
 - `git commit -am "Le premier commit"`
