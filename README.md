@@ -10,8 +10,6 @@
 ## Prendre un référentiel existant depuis la ligne de commande
 
 - `git init`
-- `git add .` ou `git add FICHIER`
-- `git commit -m "first commit"`
 - `git remote add origin URL_GIT`
 - `git pull origin master`
 
