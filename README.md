@@ -58,6 +58,10 @@
 
 - `git config --global user.email "EMAIL"`
 
+**NAME & PASSWORD**
+
+- `git config --global credential.helper store`
+
 **SIGNATURES**
 
 - `git config commit.gpgsign true`
