@@ -25,6 +25,10 @@
 
 - `git branch`
 
+**SEARCH BRANCH**
+
+- `git fetch`
+
 **SWITCH BRANCH**
 
 - `git checkout NOM_DE_LA_BRANCH`
