@@ -1,3 +1,10 @@
+## Save un référentiel
+
+- `git add .` ou `git add FICHIER`
+- `git commit [ -S ] -m "first commit"`
+- `git push origin master`
+
+
 ## Créez un nouveau référentiel sur la ligne de commande
 
 - `git init`
