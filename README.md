@@ -2,7 +2,7 @@
 
 - `git init`
 - `git add .` ou `git add FICHIER`
-- `git commit -S -m "first commit"`
+- `git commit [ -S ] -m "first commit"`
 - `git remote add origin URL_GIT`
 - `git push origin master`
 
